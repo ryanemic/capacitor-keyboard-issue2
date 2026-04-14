@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "Keyboard Issue",
+  "webDir": "dist",
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "disable"
+    },
+    "Keyboard": {
+      "resizeOnFullScreen": false
+    }
+  }
+}
